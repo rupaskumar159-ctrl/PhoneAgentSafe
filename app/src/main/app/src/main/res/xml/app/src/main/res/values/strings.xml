@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Safe Phone Agent</string>
-    <string name="accessibility_desc">Controls supported phone actions while blocking sensitive apps and data.</string>
-</resources>
